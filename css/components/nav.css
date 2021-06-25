@@ -1,0 +1,1 @@
+.custom-checkbox__field:checked+.custom-checkbox__content::after{opacity:1}.custom-checkbox__field:disabled+.custom-checkbox__content{opacity:.4;pointer-events:none}@media (max-width:879px){.nav{display:none}}.nav__list{display:flex}.nav__item{padding-right:54px}.nav__link{white-space:pre;color:var(--color-black);font:var(--middle-high)}
